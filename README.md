@@ -11,10 +11,10 @@ Here is the visualization of schedulers (Exponential Decay is using here):
 ## Technologies used
 - **Python 3.8+**
 - **PyTorch**
-- **torchvision** (to apply transformations to images)
+- **torchvision**
 - **NumPy**
-- **tqdm** (to work with images)
-- **wandb** (to display the animation)
+- **tqdm** 
+- **wandb** 
 
   
 ## Scheme of the program operation
